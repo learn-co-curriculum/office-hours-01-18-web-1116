@@ -1,24 +1,17 @@
-# README
+# Office Hours
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Things to cover
 
-Things you may want to cover:
+### Rails
+- Rails DRY sessions & authorization
+- rails validation/strong params
 
-* Ruby version
+## Approach
 
-* System dependencies
+### Rails
+- Quick App with login and signup for a User with validations 
+- Hit an API (if there is time)
 
-* Configuration
+## Result
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Created a Rails app with Users, Songs and a UserSongs join. Focused on RESTful routing as well as User signup/login and minimal validations.
